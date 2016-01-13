@@ -1,5 +1,5 @@
 # thesis-ucl
-A simple LateX template for UCL theses
+A simple LateX template for UCL theses (under [Beerware License](https://en.wikipedia.org/wiki/Beerware)).
 
 ## How-to ?
 Clone this repository and edit main.tex !
